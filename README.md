@@ -1,4 +1,4 @@
-# Pictures-bot
+# picture-bot
 #### @picture_piscum_bot
 
 ## Описание
@@ -14,7 +14,7 @@ __Telegram чат-бот, который получает на вход ссыл
 #### Клонирование репозитория
 Склонируйте репозиторий на локальную машину:
 ```bash
-git clone https://github.com/Slavchick12/pictures-bot.git
+git clone https://github.com/Slavchick12/picture-bot.git
 ```
 #### Подготовка Redis
 ##### Шаг 1. Откройте терминал на базе linux и введите следующую команду
